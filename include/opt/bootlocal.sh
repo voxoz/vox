@@ -9,3 +9,4 @@ sudo /usr/local/etc/init.d/openssh start
 
 # setup authorized_keys
 sudo /etc/init.d/set-ssh-auth-key
+
