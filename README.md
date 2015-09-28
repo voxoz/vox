@@ -6,6 +6,7 @@ Features
 
 * Various environments: xhyve/lxc/runc/openvz/iocage
 * Core Linux with Synrc Erlang and devtools
+* 8MB or 25MB
 
 Install on Mac
 --------------
